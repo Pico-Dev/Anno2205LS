@@ -2,6 +2,7 @@
 A livesplit file for anno 2205
 
 Anno 2205 Livesplit Autoslpit for use in Anno 2205 speedruns
+
 Copyright (C) 2022  Pico-Dev
 
 This program is free software; you can redistribute it and/or
